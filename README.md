@@ -1,28 +1,17 @@
 ```
- /$$      /$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$$$$$$ 
+ /$$      /$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$$$$$$
 | $$$    /$$$| $$  /$$/| $$__  $$ /$$__  $$| $$__  $$
 | $$$$  /$$$$| $$ /$$/ | $$  \ $$| $$  \__/| $$  \ $$
 | $$ $$/$$ $$| $$$$$/  | $$$$$$$ |  $$$$$$ | $$  | $$
 | $$  $$$| $$| $$  $$  | $$__  $$ \____  $$| $$  | $$
 | $$\  $ | $$| $$\  $$ | $$  \ $$ /$$  \ $$| $$  | $$
 | $$ \/  | $$| $$ \  $$| $$$$$$$/|  $$$$$$/| $$$$$$$/
-|__/     |__/|__/  \__/|_______/  \______/ |_______/ 
+|__/     |__/|__/  \__/|_______/  \______/ |_______/
 ```
 
 _Because selling out is bad_
 
 ## How to use
-
-MKBSD comes in two variants! Node.js and Python.
-
-### Running in Node.js
-
-1. Ensure you have Node.js installed.
-2. Run `node mkbsd.js`
-3. Wait a little.
-4. All wallpapers are now in a newly created `downloads` subfolder.
-
-### Running in Python
 
 1. Ensure you have Python installed.
 2. Ensure you have the `aiohttp` Python package installed (`pip install aiohttp`).
